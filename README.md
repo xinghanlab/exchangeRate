@@ -3,6 +3,7 @@
 ### key requests
 1. get the exchange rate.
 2. remind user the relatively low price during a period by email.
+3. send the mail if continuous rise appears.
 ### extra requests
 1. everyday send email showing exchange rate of last day, we call it "everyday mail".
 2. the content of mail as possible show these data by chart.
